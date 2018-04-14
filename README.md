@@ -21,8 +21,9 @@ CAE-CGAN | <img src = 'assets/CAE-CGAN/fashion-mnist/1.png' height = '200px'> | 
 AE-GAN | <img src = 'assets/AE-GAN/cifar10/1.png' height = '200px'> | <img src = 'assets/AE-GAN/cifar10/20.png' height = '200px'> | <img src = 'assets/AE-GAN/cifar10/50.png' height = '200px'> | <img src = 'assets/AE-GAN/cifar10/100.png' height = '200px'>
 CAE-CGAN | <img src = 'assets/CAE-CGAN/cifar10/1.png' height = '200px'> | <img src = 'assets/CAE-CGAN/cifar10/20.png' height = '200px'> | <img src = 'assets/CAE-CGAN/cifar10/50.png' height = '200px'> | <img src = 'assets/CAE-CGAN/cifar10/100.png' height = '200px'>
 
-#### Our model trains the results on the CIFAR-10 dataset.
+#### Our model trains the results on the celebA dataset.
 *Name* | *Black_Hair* | *Blond_Hair* 
+:---: | :---: | :---: |
 CAE-CGAN | <img src = 'assets/CAE-CGAN/celebA/14.png' height = '300px'> | <img src = 'assets/CAE-CGAN/celebA/15.png' height = '300px'>
 *Name* | *Brown_Hair* | *Gray_Hair* 
 CAE-CGAN | <img src = 'assets/CAE-CGAN/celebA/16.png' height = '300px'> | <img src = 'assets/CAE-CGAN/celebA/16.png' height = '300px'>
