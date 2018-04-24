@@ -26,7 +26,7 @@ CAE-CGAN | <img src = 'assets/CAE-CGAN/cifar10/1.png' height = '200px'> | <img s
 :---: | :---: | :---: |
 CAE-CGAN | <img src = 'assets/CAE-CGAN/celebA/14.png' height = '300px'> | <img src = 'assets/CAE-CGAN/celebA/15.png' height = '300px'>
 *Name* | *Brown_Hair* | *Gray_Hair* 
-CAE-CGAN | <img src = 'assets/CAE-CGAN/celebA/16.png' height = '300px'> | <img src = 'assets/CAE-CGAN/celebA/16.png' height = '300px'>
+CAE-CGAN | <img src = 'assets/CAE-CGAN/celebA/16.png' height = '300px'> | <img src = 'assets/CAE-CGAN/celebA/17.png' height = '300px'>
 
 ####  Prediction of the faces of the same person with different ages, each row corresponding to the same person.
 <img src = 'assets/CAE-CGAN/celebA/23.png'>
