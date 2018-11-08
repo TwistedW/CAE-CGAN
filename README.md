@@ -34,8 +34,6 @@ CAE-CGAN | <img src = 'assets/CAE-CGAN/celebA/16.png' height = '300px'> | <img s
 ####  Facial attributes generation.
 <img src = 'assets/CAE-CGAN/celebA/22.png'>
 
-author: WuGuang
-
 email: twistedwg@hotmail.com
 
 
