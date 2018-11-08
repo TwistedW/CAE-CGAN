@@ -1,7 +1,35 @@
 CAE-CGAN
 ======================================================
 
-The code is tested on Linux operating system with Python 2.7 or 3.x, TensorFlow 1.4.0.
+The code is tested on Linux operating system with Python 2.7 or 3.x, TensorFlow 1.4.0+.
+
+Run the model using this command:
+-------------------------------------
+
+if you want to train unsupervised version:
+
+	python main.py --gan_type AE_GAN --dataset mnist
+
+supervised version:
+	
+	python main.py --gan_type CAE_CGAN --dataset mnist
+
+The dataset you can choose mnist or fashion-mnist.You should put the dataset in the data folder.
+
+├── data
+│   ├── mnist # mnist data (not included in this repo)
+│   |   ├── t10k-images-idx3-ubyte.gz
+│   |   ├── t10k-labels-idx1-ubyte.gz
+│   |   ├── train-images-idx3-ubyte.gz
+│   |   └── train-labels-idx1-ubyte.gz
+│   └── fashion-mnist # fashion-mnist data (not included in this repo)
+│       ├── t10k-images-idx3-ubyte.gz
+│       ├── t10k-labels-idx1-ubyte.gz
+│       ├── train-images-idx3-ubyte.gz
+│       └── train-labels-idx1-ubyte.gz
+└── 
+
+If you want to try more dataset you can contact me or modify by detail structure.
 
 #### Our model trains the results on the MNIST dataset.
 *Name* | *Epoch 1* | *Epoch 10* | *Epoch 25* | GIF |
@@ -33,6 +61,16 @@ CAE-CGAN | <img src = 'assets/CAE-CGAN/celebA/16.png' height = '300px'> | <img s
 
 ####  Facial attributes generation.
 <img src = 'assets/CAE-CGAN/celebA/22.png'>
+
+#### Other dataset network structure.
+
+<p align="center">
+    <img src="/assets/structure1.png">
+</p>
+
+<p align="center">
+    <img src="/assets/structure2.png">
+</p>
 
 email: twistedwg@hotmail.com
 
