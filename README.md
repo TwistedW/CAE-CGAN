@@ -16,6 +16,7 @@ supervised version:
 
 The dataset you can choose mnist or fashion-mnist.You should put the dataset in the data folder.
 
+```
 ├── data
 │   ├── mnist # mnist data (not included in this repo)
 │   |   ├── t10k-images-idx3-ubyte.gz
@@ -28,6 +29,7 @@ The dataset you can choose mnist or fashion-mnist.You should put the dataset in 
 │       ├── train-images-idx3-ubyte.gz
 │       └── train-labels-idx1-ubyte.gz
 └── 
+```
 
 If you want to try more dataset you can contact me or modify by detail structure.
 
