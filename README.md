@@ -1,6 +1,8 @@
 CAE-CGAN
 ======================================================
 
+This repository contains code accompanying the paper [Image Generation via Latent Space Learning Using Improved Combination](https://doi.org/10.1016/j.neucom.2019.02.031).
+
 The code is tested on Linux operating system with Python 2.7 or 3.x, TensorFlow 1.4.0+.
 
 Run the model using this command:
